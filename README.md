@@ -1,2 +1,2 @@
-# mogib-db-sample
+# mongo-db-sample
 Using Mongo DB Atlas on that project
